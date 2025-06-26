@@ -1,0 +1,32 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./wordpress/kipfs/kipfs.php
+./wordpress/kipfs/index.php
+./wordpress/kipfs/admin/settings/fields.php
+./wordpress/kipfs/admin/settings/settings.php
+./wordpress/kipfs/admin/ipfs/add.php
+./wordpress/kipfs/admin/ipfs/pin.php
+./wordpress/kipfs/admin/ipfs/pinata.php
+./wordpress/kipfs/admin/ipfs/query.php
+./wordpress/kipfs/admin/nfts/index.php
+./wordpress/kipfs/admin/media_list/actions.php
+./wordpress/kipfs/admin/media_list/column.php
+./wordpress/kipfs/admin/ajax/ajax.php
+./wordpress/kipfs/admin/ajax/ajax.js
+./wordpress/kipfs/admin/media/post.php
+./wordpress/kipfs/admin/media/new.php
+./wordpress/kipfs/admin/media/delete.php
+./wordpress/kipfs/uninstall.php
+./wordpress/kipfs/public/post/bottom.php
+./wordpress/kipfs/public/ipfs/link.php
+./wordpress/kipfs/public/ipfs/cid.php
+./wordpress/kipfs/public/ipfs/links.php
+./wordpress/kipfs/lib/js/kredeum_nft.js
+./wordpress/kipfs/lib/php/restclient.php
+./hardhat.config.js
+./solidity/contracts/contracts.txt
+./valid_targets.txt
