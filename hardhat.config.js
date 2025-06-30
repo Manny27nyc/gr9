@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 require("@nomiclabs/hardhat-waffle");
 require('hardhat-abi-exporter');
 

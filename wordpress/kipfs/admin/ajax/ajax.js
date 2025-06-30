@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // https://codex.wordpress.org/AJAX_in_Plugins
 
 jQuery(document).ready(function () {

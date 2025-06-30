@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { log } from '@graphprotocol/graph-ts';
 import { KRE, Transfer as TransferEvent } from '../generated/KRE/KRE';
 import { Token, Owner, Contract, Transfer } from '../generated/schema';
